@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# flutter_simple_app
 
 A new Flutter project.
 
